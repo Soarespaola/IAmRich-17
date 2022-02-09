@@ -10,7 +10,6 @@
 		534D0FEB27A8BFDE0010695E /* I_Am_Rich_17App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534D0FEA27A8BFDE0010695E /* I_Am_Rich_17App.swift */; };
 		534D0FED27A8BFDE0010695E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 534D0FEC27A8BFDE0010695E /* ContentView.swift */; };
 		534D0FF227A8BFE00010695E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 534D0FF127A8BFE00010695E /* Preview Assets.xcassets */; };
-		534D0FF927A8DC150010695E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 534D0FF827A8DC150010695E /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,7 +17,6 @@
 		534D0FEA27A8BFDE0010695E /* I_Am_Rich_17App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = I_Am_Rich_17App.swift; sourceTree = "<group>"; };
 		534D0FEC27A8BFDE0010695E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		534D0FF127A8BFE00010695E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		534D0FF827A8DC150010695E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../I-Am-Rich-iOS13-SwiftUI-Completed-master/I Am Rich/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +51,6 @@
 			children = (
 				534D0FEA27A8BFDE0010695E /* I_Am_Rich_17App.swift */,
 				534D0FEC27A8BFDE0010695E /* ContentView.swift */,
-				534D0FF827A8DC150010695E /* Assets.xcassets */,
 				534D0FF027A8BFE00010695E /* Preview Content */,
 			);
 			path = "I Am Rich-17";
@@ -125,7 +122,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				534D0FF927A8DC150010695E /* Assets.xcassets in Resources */,
 				534D0FF227A8BFE00010695E /* Preview Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
